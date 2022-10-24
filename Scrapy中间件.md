@@ -24,10 +24,12 @@
 
 - spider中间件   
 
-  
+![Spider中间件](https://user-images.githubusercontent.com/108125193/197500089-a9f90e98-4b80-4b7f-9ff8-63c180047a3a.png)
+
 
 - downloader中间件
 
+![Downloader中间件](https://user-images.githubusercontent.com/108125193/197500104-d06d5ec1-ba6c-4677-bd55-7bc7c89bb3a3.png)
 
 
 ### 学会ImagesPipeline
